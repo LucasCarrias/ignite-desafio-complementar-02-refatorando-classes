@@ -1,4 +1,4 @@
-import { Component, createRef, useRef, useState } from "react";
+import { useRef } from "react";
 import { FiCheckSquare } from "react-icons/fi";
 
 import { Form } from "./styles";
